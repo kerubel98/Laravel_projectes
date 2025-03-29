@@ -1,0 +1,9 @@
+*.log
+*key
+*id
+*.pub
+temp/
+**/node_modules
+*.env
+[A[A[B[B
+/dir
